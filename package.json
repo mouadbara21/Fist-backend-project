@@ -1,0 +1,16 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "\"this a demo code\"",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.3.0",
+    "qr-image": "^3.2.0"
+  }
+}
